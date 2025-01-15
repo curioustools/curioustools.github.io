@@ -1,20 +1,40 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Curioustools
-site_description: Google certified Associate Android Dev
+site_description: Making your daily usage of mobile easier
 site_author: Ansh Sachdeva(root-ansh) 
 site_url: https://curioustools.github.io/ 
 
 repo_url: 'https://github.com/curioustools/curioustools.github.io'
 
-
-
 theme:
     name: material
+    primary: "deep purple"
+    accent: "deep purple"
     palette:
-        primary: 'white'
-        accent: 'green'
+
+        # Palette toggle for light mode
+        - scheme: slate
+          primary: "deep purple"
+          accent: "deep purple"
+          toggle:
+              icon: material/weather-sunny
+              name: Switch to light mode
+
+
+        # Palette toggle for dark mode
+        - scheme: default
+          primary: "deep purple"
+          accent: "deep purple"
+          toggle:
+              icon: material/weather-night
+              name: Switch to dark mode
+
+
+
 
     features:
-        - navigation.tabs 
+        - navigation.tabs
+        - navigation.tabs.sticky
  
     language: 'en'    
     extra:
@@ -33,7 +53,10 @@ markdown_extensions:
     - meta
     - markdown.extensions.admonition
     - pymdownx.superfences
-    - pymdownx.emoji
+    - attr_list
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
       
 extra:
     disqus: curioustools 
@@ -48,11 +71,13 @@ extra:
 
 
 
-copyright: Copyright &copy; 2019 <a href="https://www.linkedin.com/in/anshsachdevaprofessional/">Ansh Sachdeva</a>
+copyright: Copyright &copy; 2019 <a href="https://www.linkedin.com/in/anshsachdevawork/">Curioustools</a>
 
+extra_css:
+    - stylesheets/extra.css
 
 nav:
-    - About Me:
+    - Home :
         - About: index.md
        
     
