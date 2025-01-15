@@ -22,7 +22,7 @@ Whether you're seeking tools for everyday tasks or solutions to complex challeng
 
 You can reach out to us on : 
 
-:simple-gmail:{.gmail} [E-Mail](mailto:anshsachdeva.work@gmail.com) ⋅ :fontawesome-brands-linkedin:{.linkedin} [LinkedIn](https://www.linkedin.com/in/anshsachdevawork) ⋅ :fontawesome-brands-github-alt:{.github} [GitHub](https://github.com/root-ansh) ⋅ :fontawesome-brands-x-twitter:{.twitter} [ Twitter](https://twitter.com/root_ansh)  
+:simple-gmail:{.gmail} [Mail](mailto:anshsachdeva.work@gmail.com) ⋅ :fontawesome-brands-linkedin:{.linkedin} [LinkedIn](https://www.linkedin.com/in/anshsachdevawork) ⋅ :fontawesome-brands-github-alt:{.github} [GitHub](https://github.com/root-ansh) ⋅ :fontawesome-brands-x-twitter:{.twitter} [ Twitter](https://twitter.com/root_ansh)  
 
 
 

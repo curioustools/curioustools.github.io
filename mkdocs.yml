@@ -11,27 +11,18 @@ theme:
     primary: "deep purple"
     accent: "deep purple"
     palette:
-
-
-        # Palette toggle for dark mode
         - scheme: slate
           primary: "deep purple"
           accent: "deep purple"
           toggle:
-              icon: material/weather-night
-              name: Switch to dark mode
-
-      # Palette toggle for light mode
+              icon: material/weather-sunny
+              name: Switch to light mode
         - scheme: default
           primary: "deep purple"
           accent: "deep purple"
           toggle:
-            icon: material/weather-sunny
-            name: Switch to light mode
-
-
-
-
+            icon: material/weather-night
+            name: Switch to dark mode
 
     features:
         - navigation.tabs
@@ -47,8 +38,7 @@ theme:
     logo: assets/logo/logo.svg
     favicon: 'assets/images/favicon.ico'
    
-     
-      
+
 markdown_extensions:
     - def_list
     - meta
@@ -64,12 +54,10 @@ extra:
     social:
         - icon: fontawesome/brands/github
           link: https://github.com/root-ansh
-
         - icon: fontawesome/brands/twitter
           link: https://twitter.com/root_ansh
         - icon: fontawesome/brands/linkedin
           link: https://www.linkedin.com/in/anshsachdevawork/
-
 
 
 copyright: Copyright &copy; 2019 <a href="https://www.linkedin.com/in/anshsachdevawork/">Curioustools</a>
@@ -80,5 +68,16 @@ extra_css:
 nav:
     - Home :
         - About: index.md
-       
+    - Privacy Policy: privacy.md
+    - Owner ⎋ : https://root-ansh.github.io/
+    - PDF Widget: index.md
+    - Self Notes : index.md
+    - Varabhaya : index.md
+    - Menu Maker: index.md
+    - Water Manager : index.md
+    - Trendy Hub: index.md
+    - Other Projects: tab_projects/project_summary.md
+
+
+
     
