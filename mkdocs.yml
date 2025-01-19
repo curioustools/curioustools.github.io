@@ -70,12 +70,12 @@ nav:
         - About: index.md
     - Privacy Policy: privacy.md
     - Owner ⎋ : https://root-ansh.github.io/
-    - PDF Widget: index.md
-    - Self Notes : index.md
-    - Varabhaya : index.md
-    - Menu Maker: index.md
-    - Water Manager : index.md
-    - Trendy Hub: index.md
+    - PDF Widget: pdf.md
+    - Self Notes : notes.md
+    - Varabhaya : varabhaya.md
+    - Menu Maker: menu.md
+    - Water Manager : water.md
+    - Trendy Hub: trendy.md
     - Other Projects: tab_projects/project_summary.md
 
 
