@@ -4,7 +4,12 @@ hide:
   - toc
 ---
 
-This is the General Privacy Policy For all the softwares developed under "Curioustools®" and "root-ansh®" Domain.  
+This is the General Privacy Policy For all the softwares developed under "Curioustools®" and "root-ansh®" Domain. This applies to all the current and future Applications, including but not limited to : 
+
+1. [Water Manager: Intake Tracker](https://play.google.com/store/apps/details?id=in.curioustools.water_reminder)
+2. [SelfNotes: Notes in Status bar](https://play.google.com/store/apps/details?id=in.curioustools.selfnotes&hl=en_IN)
+3. [Menu Maker: Create N Edit Shop Menu](https://play.google.com/store/apps/details?id=in.curioustools.menu_maker)
+4. [PDF Widget Maker](https://play.google.com/store/apps/details?id=work.curioustools.pdfwidget)
 
 ---
 
@@ -52,3 +57,9 @@ This policy is effective as of 2022-11-01
 
 ### Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [anshsachdeva.work@gmail.com](mailto:anshsachdeva.work@gmail.com) .
+
+### Digitally Signed by 
+Ansh Sachdeva (alias : root-ansh/curioustools)
+anshsachdeva.work@gmail.com
+
+
