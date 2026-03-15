@@ -6,10 +6,11 @@ hide:
 
 This is the General Privacy Policy For all the softwares developed under "Curioustools®" and "root-ansh®" Domain. This applies to all the current and future Applications, including but not limited to : 
 
-1. [Water Manager: Intake Tracker](https://play.google.com/store/apps/details?id=in.curioustools.water_reminder)
-2. [SelfNotes: Notes in Status bar](https://play.google.com/store/apps/details?id=in.curioustools.selfnotes&hl=en_IN)
-3. [Menu Maker: Create N Edit Shop Menu](https://play.google.com/store/apps/details?id=in.curioustools.menu_maker)
-4. [PDF Widget Maker](https://play.google.com/store/apps/details?id=work.curioustools.pdfwidget)
+1. [Monetary Goals](https://play.google.com/store/apps/details?id=in.curioustools.goals_map)
+2. [Water Manager: Intake Tracker](https://play.google.com/store/apps/details?id=in.curioustools.water_reminder)
+3. [SelfNotes: Notes in Status bar](https://play.google.com/store/apps/details?id=in.curioustools.selfnotes&hl=en_IN)
+4. [Menu Maker: Create N Edit Shop Menu](https://play.google.com/store/apps/details?id=in.curioustools.menu_maker)
+5. [PDF Widget Maker](https://play.google.com/store/apps/details?id=work.curioustools.pdfwidget)
 
 ---
 
